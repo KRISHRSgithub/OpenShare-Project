@@ -9,6 +9,7 @@ OpenSHARE is a simple file-sharing application designed to make sending and rece
 A sender uploads a file and receives a unique share code. The receiver can enter that code to find and download the shared file.
 
 How does it work? →
+
 01 Select a File
 Choose the file you want to share.
 
