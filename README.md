@@ -3,23 +3,24 @@
 About OpenSHARE →
 Simple. Fast. Secure.
 
-What is OpenSHARE? →
+What is OpenSHARE? 
+
 OpenSHARE is a simple file-sharing application designed to make sending and receiving files easy.
 
 A sender uploads a file and receives a unique share code. The receiver can enter that code to find and download the shared file.
 
-How does it work? →
+How does it work? 
 
-01 Select a File
+01: Select a File
 Choose the file you want to share.
 
-02 Generate a Code
+02: Generate a Code
 OpenSHARE creates a unique share code for your file.
 
-03 Share the Code
+03: Share the Code
 Send the code to the person who needs the file.
 
-04 Download
+04: Download
 The receiver enters the code and downloads the file.
 
 Built for Easy File Sharing
