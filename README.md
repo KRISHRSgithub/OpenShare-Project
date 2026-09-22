@@ -1,6 +1,6 @@
 # OpenShare-Project
 
-About OpenSHARE
+About OpenSHARE →
 Simple. Fast. Secure.
 
 What is OpenSHARE?
